@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
+	"enable_tab_scrolling": false,
 	"font_face": "Consolas",
 	"font_size": 11,
 	"highlight_line": true,
@@ -18,5 +19,5 @@
 	"soda_folder_icons": true,
 	"tab_size": 4,
 	"theme": "Sodarized Dark.sublime-theme",
-	"translate_tabs_to_spaces": false
+	"translate_tabs_to_spaces": true
 }
