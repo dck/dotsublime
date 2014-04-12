@@ -19,5 +19,6 @@
 	"soda_folder_icons": true,
 	"tab_size": 4,
 	"theme": "Sodarized Light.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
